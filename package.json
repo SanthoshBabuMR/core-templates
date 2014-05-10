@@ -1,0 +1,23 @@
+{
+  "name": "templates",
+  "version": "0.0.0",
+  "description": "Front-End Specific Template(s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/html5webster/templates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/html5webster/templates/issues"
+  },
+  "homepage": "https://github.com/html5webster/templates",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-connect": "^0.7.1"
+  }
+}
