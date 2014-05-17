@@ -1,4 +1,4 @@
-requireJS.config( {
+requirejs.config( {
 	  baseUrl: ""
 	, paths : {
 
